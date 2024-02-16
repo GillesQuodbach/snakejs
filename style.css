@@ -1,0 +1,30 @@
+body {
+  background-color: #2f272f;
+}
+
+canvas {
+  border: 2px solid #000;
+  background-color: #8dbe47;
+}
+
+.game-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.game-title {
+  color: #fff;
+  font-family: "Pixelify Sans", sans-serif;
+  font-size: 4rem;
+  font-weight: 100;
+}
+
+.score-container {
+  color: #fff;
+  font-family: "Pixelify Sans", sans-serif;
+  margin-bottom: 30px;
+  font-size: 2rem;
+  font-weight: 100;
+}
